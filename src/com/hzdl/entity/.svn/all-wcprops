@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/myproject/!svn/ver/5/trunk/bookstores/src/com/hzdl/entity
+END
+Admin.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/myproject/!svn/ver/5/trunk/bookstores/src/com/hzdl/entity/Admin.java
+END
+Book.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/myproject/!svn/ver/5/trunk/bookstores/src/com/hzdl/entity/Book.java
+END
+Page.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/myproject/!svn/ver/5/trunk/bookstores/src/com/hzdl/entity/Page.java
+END
+Category.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/myproject/!svn/ver/5/trunk/bookstores/src/com/hzdl/entity/Category.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/myproject/!svn/ver/5/trunk/bookstores/src/com/hzdl/entity/User.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/myproject/!svn/ver/5/trunk/bookstores/src/com/hzdl/bookDaoImp
+END
+AdminDaoImp.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/myproject/!svn/ver/5/trunk/bookstores/src/com/hzdl/bookDaoImp/AdminDaoImp.java
+END
+BookDaoImp.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/myproject/!svn/ver/5/trunk/bookstores/src/com/hzdl/bookDaoImp/BookDaoImp.java
+END
+CategoryDaoImp.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/myproject/!svn/ver/5/trunk/bookstores/src/com/hzdl/bookDaoImp/CategoryDaoImp.java
+END
+UserDaoImp.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/myproject/!svn/ver/5/trunk/bookstores/src/com/hzdl/bookDaoImp/UserDaoImp.java
+END

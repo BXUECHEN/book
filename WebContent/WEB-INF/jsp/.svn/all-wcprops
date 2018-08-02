@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/myproject/!svn/ver/5/trunk/bookstores/WebContent/WEB-INF/jsp
+END
+user-login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/myproject/!svn/ver/5/trunk/bookstores/WebContent/WEB-INF/jsp/user-login.jsp
+END
+help.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/myproject/!svn/ver/5/trunk/bookstores/WebContent/WEB-INF/jsp/help.jsp
+END
+cart.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/myproject/!svn/ver/5/trunk/bookstores/WebContent/WEB-INF/jsp/cart.jsp
+END
+user-regist.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/myproject/!svn/ver/5/trunk/bookstores/WebContent/WEB-INF/jsp/user-regist.jsp
+END
+book-edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/myproject/!svn/ver/5/trunk/bookstores/WebContent/WEB-INF/jsp/book-edit.jsp
+END
+book-mgr.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/myproject/!svn/ver/5/trunk/bookstores/WebContent/WEB-INF/jsp/book-mgr.jsp
+END
+admin-home.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/myproject/!svn/ver/5/trunk/bookstores/WebContent/WEB-INF/jsp/admin-home.jsp
+END
+admin-login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/myproject/!svn/ver/5/trunk/bookstores/WebContent/WEB-INF/jsp/admin-login.jsp
+END
+category-mgr.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/myproject/!svn/ver/5/trunk/bookstores/WebContent/WEB-INF/jsp/category-mgr.jsp
+END

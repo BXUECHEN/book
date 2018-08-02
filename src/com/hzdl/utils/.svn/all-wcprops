@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/myproject/!svn/ver/5/trunk/bookstores/src/com/hzdl/utils
+END
+db.properties
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/myproject/!svn/ver/5/trunk/bookstores/src/com/hzdl/utils/db.properties
+END
+C3P0Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/myproject/!svn/ver/5/trunk/bookstores/src/com/hzdl/utils/C3P0Utils.java
+END
+DButils.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/myproject/!svn/ver/5/trunk/bookstores/src/com/hzdl/utils/DButils.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/myproject/!svn/ver/5/trunk/bookstores/src/com/hzdl/utils/Constants.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/myproject/!svn/ver/5/trunk/bookstores/src/com/hzdl/controller
+END
+UserRegistController.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/myproject/!svn/ver/5/trunk/bookstores/src/com/hzdl/controller/UserRegistController.java
+END
+AdminLoginController.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/myproject/!svn/ver/5/trunk/bookstores/src/com/hzdl/controller/AdminLoginController.java
+END
+UserLoginController.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/myproject/!svn/ver/5/trunk/bookstores/src/com/hzdl/controller/UserLoginController.java
+END
+CheckCodeServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/myproject/!svn/ver/5/trunk/bookstores/src/com/hzdl/controller/CheckCodeServlet.java
+END
+BookController.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/myproject/!svn/ver/5/trunk/bookstores/src/com/hzdl/controller/BookController.java
+END

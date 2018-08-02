@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/myproject/!svn/ver/5/trunk/bookstores/src/com/hzdl/bookservice
+END
+UserService.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/myproject/!svn/ver/5/trunk/bookstores/src/com/hzdl/bookservice/UserService.java
+END
+AdminService.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/myproject/!svn/ver/5/trunk/bookstores/src/com/hzdl/bookservice/AdminService.java
+END
+BookService.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/myproject/!svn/ver/5/trunk/bookstores/src/com/hzdl/bookservice/BookService.java
+END
+CategoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/myproject/!svn/ver/5/trunk/bookstores/src/com/hzdl/bookservice/CategoryService.java
+END
